@@ -71,7 +71,7 @@ class _BusinessStandardsAboutState extends State<BusinessStandardsAbout> {
                     Container(
                       decoration: BoxDecoration(
                         color: Colors.white, // พื้นหลังขาว
-                        borderRadius: BorderRadius.circular(10.0), // ปรับความโค้ง=
+                        borderRadius: BorderRadius.circular(10.0), 
                       ),
                       padding: const EdgeInsets.all(10.0),
                       child: Row(
