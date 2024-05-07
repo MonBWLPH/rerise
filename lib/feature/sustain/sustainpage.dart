@@ -1,12 +1,12 @@
+import 'package:easy_localization/easy_localization.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/widgets.dart';
 import 'package:go_router/go_router.dart';
-import 'package:web_rise_consulting/config/themes/rise_theme_fonts.dart';
 
+import 'package:web_rise_consulting/config/themes/rise_theme_fonts.dart';
 import 'package:web_rise_consulting/feature/homepage/feature/footer.dart';
 import 'package:web_rise_consulting/feature/homepage/feature/rise_appbar.dart';
 import 'package:web_rise_consulting/main.dart';
-import 'package:easy_localization/easy_localization.dart';
 import 'package:web_rise_consulting/translations/locale_keys.g.dart';
 
 class RiseSustainpageScreen extends StatefulWidget {
