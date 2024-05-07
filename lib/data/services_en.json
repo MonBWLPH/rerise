@@ -1,0 +1,139 @@
+[
+    {
+        "key": "iso-consulting",
+        "title": "ISO Consulting",
+        "intro": "Our ISO consulting services encompass the development and assessment for certifications such as ISO/IEC 27001, 27701, 9001, 14001, and others. We specialize in providing guidance on various ISO standards, including:",
+        "bullets": [
+            "ISO/IEC 38500: International Standard for Corporate Governance of IT (IT Governance), ensuring the governance of information technology aligns with global standards.",
+            "ISO/IEC 27001: Information Security Management System (ISMS), offering advice on maintaining information security in accordance with international standards within the ISO 27000 Series.",
+            "SO/IEC 27701: Privacy Information Management (PIMS), aiding in the development of personal data management systems compliant with PDPA and GDPR.",
+            "ISO/IEC 20000: IT Service Management (ITSM), the leading standard for international information technology service management, ensuring the quality of IT services.",
+            "ISO 9001: Quality Management System (QMS), covering standards and internal quality monitoring for effective quality management.",
+            "ISO 14001: Environmental Management System, providing environmental management system certification according to established standards.",
+            "ISO/IEC 29110-4-1:2018: Systems and software engineering, offering certification for standardized software development processes, boosting confidence in smaller organizations' software systems.",
+            "Our consulting services extend to various industries, aiding in the development of quality systems for agencies, industrial plants, SMEs, or small businesses. Our team of expert consultants isdedicated to helping you achieve and maintain the highest standards."
+        ],
+        "img": "assets/image_icon_services2/icon1_ISO.png"
+    },
+    {
+        "key": "sec-audit-and-sec-issue-services",
+        "title": "SEC Audit and\nSEC Issue Services",
+        "intro": "We provide consulting and inspection services for businesses preparing to file for listing on the stock exchange or those under the supervision of the Securities and Exchange Commission (SEC). Our focus is to ensure strict compliance with SEC policies, announcements, and guidelines.\nThis comprehensive inspection covers:",
+        "bullets": [
+            "Announcements related to information technology systems (Information Technology) and digital asset supervision (Cryptoassets).",
+            "SEC Office Announcement No. Sor Tor. 38/2022, outlining detailed requirements for information technology systems.",
+            "SEC Office Announcement No. Nor Por. 7/2022, providing guidelines for information technology system provision.",
+            "SEC Office Announcement No. Sor Tor. 21/2021, establishing rules, conditions, and methods for electronic permission or notification requests.",
+            "SEC Office Announcement No. Sor Tor. 44/2022, specifying detailed requirements for digital asset wallets and key management systems."
+        ],
+        "img": "assets/image_icon_services2/icon2_SEC and SEC.png"
+    },
+    {
+        "key": "it-audit-for-oic",
+        "title": "IT Audit for OIC",
+        "intro": "We offer consulting services for businesses seeking licensure, ensuring alignment with the guidelines set forth by the Office of the Insurance Commission (OIC) for accurate and confident operational adherence. This service includes:",
+        "bullets": [
+            "Verification of information systems by licensed independent auditors in accordance with the OIC's announcement.",
+            "Certification services with the issuance of No. Aor Wor. 3 certificates, attesting to the security of the information system through an independent auditor.",
+            "Certification services with the issuance of No. Aor Wor. 4 certificates, facilitating third-party approval requests and information system certification."
+        ],
+        "img": "assets/image_icon_services2/icon3_IT for OIC.png"
+    },
+    {
+        "key": "bot-compliance",
+        "title": "BOT Compliance",
+        "intro": "We provide consulting and auditing services (Independent Audit/Outsourced Audit) in accordance with security rules and regulations. This is tailored for businesses in the process of license application or under the supervision of the Bank of Thailand (BOT), ensuring full compliance with BOT policies, announcements, and guidelines.",
+        "bullets": [
+            "Bank of Thailand Announcement at the National Legislative Assembly No. Sor Nor Chor. 1/2021: Criteria for Supervising Information Technology Risk (Information Technology Risk).",
+            "Bank of Thailand Announcement at the National Legislative Assembly No. Sor Nor Chor. 11/2018: Policies and Measures for Maintaining Information Security.",
+            "Bank of Thailand Announcement at No. Sor Nor Chor. 9/2018: Criteria for Operating a Business Providing Services for Accepting Payments by Electronic Means.",
+            "Information Security Management System Standards for BAHTNET Client Computers (BAHTNET) (No. Sor Ror Kor. 4/2017).",
+            "Standards for Information Security Management Systems for Client Computers, Check Clearing Systems with Check Images, and Check Image Storage Systems (ICAS) (No. Sor Nor Kho. 5/2017).",
+            "Criteria for IT Risk Management and Minimum Cyber Risk Management Guidelines (Cyber Hygiene).",
+            "Supervision and Management of Information Technology Risks to ensure alignment with the nature of business operations."
+        ],
+        "img": "assets/image_icon_services2/icon4_BOT.png"
+    },
+    {
+        "key": "ipo-internal-control-and-audit",
+        "title": "IPO Internal Control\nand Audit",
+        "intro": "Preparation service for the company and internal audit to facilitate listing on the stock exchange, covering:",
+        "bullets": [
+            "Consulting services for establishing information technology systems to meet the Stock Exchange of Thailand's requirements.",
+            "Internal audit procedures tailored for stock exchange listing.",
+            "Consulting services, joint planning, and inspection of IT systems to assess risk management effectiveness (Risk Management).",
+            "Internal control according to COSO guidelines (COSO Internal Control), enterprise risk management COSO - Enterprise Risk Management Framework (ERM)."
+        ],
+        "img": "assets/image_icon_services2/icon5_IPO and Audit.png"
+    },
+    {
+        "key": "digital-asset-compliance",
+        "title": "Digital Asset\nCompliance",
+        "intro": "We provide business consulting and supervision services for digital asset business operators under the oversight of the Office of the Securities and Exchange Commission (SEC). This service includes:",
+        "bullets": [
+            "Consulting services and certification verification for digital asset business operators in accordance with the Bank of Thailand's announcement No. Sor Nor Sor. 6/2022.",
+            "Oversight, system setup, and guideline implementation to align with the criteria for conducting business and transactions related to digital assets, as outlined in the Royal Decree on Digital Asset Business Operations, B.E. 2018 (Digital Asset).",
+            "Internal control determination services and inspection of the internal information technology control system (IT Audit)."
+        ],
+        "img": "assets/image_icon_services2/icon6_Digital Asset Compliance.png"
+    },
+    {
+        "key": "pdpa-compliance-services",
+        "title": "PDPA Compliance Services",
+        "intro": "Offering consulting services, system setup, and comprehensive preparations for organizations to achieve Personal Data Protection Act (PDPA) compliance. This service includes:",
+        "bullets": [
+            "Data Privacy Consulting services to ensure compliance with the Personal Data Protection Act (PDPA) and the European Union's General Data Protection Regulation (GDPR).",
+            "Implementation of all relevant measures and processes for certification according to ISO 29100 and ISO 27701 NIST Privacy Framework standards.",
+            "Security advisory services aligned with PDPA, providing risk assessment advisory services, and preparing security measures for the data controller (Data Controller).",
+            "PDPA inspection service, conducting in-depth compliance inspections according to the Personal Data Protection Act 2019 (PDPA) to instill maximum confidence in organizations.",
+            "Personal Data Protection Officer Service (Outsourced DPO), offering Data Protection Officer (DPO) services according to the Personal Data Protection Act 2019.",
+            "PDPA Management Platform, providing solutions for managing personal data to enable organizations to adhere correctly and comprehensively to the guidelines of the Personal Data Protection Act."
+        ],
+        "img": "assets/image_icon_services2/icon7_PDPA.png"
+    },
+    {
+        "key": "cybersecurity-consultant",
+        "title": "Cybersecurity Consultant",
+        "intro": "Offering Security Consultant and Implementation services in alignment with the security regulations of the National Cyber ​​Security Commission (NCMC) or the National Cyber ​​Security Agency (NCSA).",
+        "bullets": [
+            "Consulting services and advisory on cybersecurity in accordance with the Cyber ​​Security Act 2019.",
+            "Providing consulting services in cybersecurity assessment (Security Posture Assessment: SPA).",
+            "Reviewing and enhancing frameworks, standards, and processes for cybersecurity and risk.",
+            "Assessing and examining the organization's cybersecurity level and vulnerabilities to be prepared for addressing threats.",
+            "Supervising and establishing control measures by applying internationally accepted standards or frameworks.",
+            "Offering consulting services with integrated security experts for organizations that have obtained ISO 27001 and ISO 27701 certification.",
+            "Cybersecurity consulting services covering both Information Technology (IT) and Operational Technology (OT) Systems.",
+            "OT Security standards for operational technology systems (Operational Technology Security) according to industry standards ISA/IEC62443 NIST800-82."
+        ],
+        "img": "assets/image_icon_services2/icon8_Cybersecurity Consultant.png"
+    },
+    {
+        "key": "nist-risk-management",
+        "title": "NIST Risk\nManagement",
+        "intro": "NIST Cyber ​​Security & Risk Management Framework: Offering consulting services on cyber risk assessments to manage information system risks for organizations in accordance with the principles of international standards NIST (National Institute of Standards and Technology).",
+        "bullets": [
+            "NIST Cybersecurity Framework, providing a framework for cybersecurity principles and best practices in risk management to enhance the security level of organizations at all levels.",
+            "NIST800-53: NIST Special Publication 800-53, ensuring the security and privacy of organizations' information systems to safeguard the entire organization, including its assets.",
+            "NIST800-82: NIST Special Publication 800-82, focusing on Industrial Control Systems Security.",
+            "NIST800-30 Risk Management Guide for Information Technology Systems, offering information risk assessment services.",
+            "Operational Technology (OT) Security, designed specifically for use in critical infrastructure to control specific safety processes of industrial management systems."
+        ],
+        "img": "assets/image_icon_services2/icon9_NIST.png"
+    },
+    {
+        "key": "digital-id-and-digital-platform-services",
+        "title": "Digital ID and Digital\nPlatform Services",
+        "intro": "Providing consulting services, recommendations, and system planning for Digital ID and Digital Platform Services (DPS) under the supervision of the Electronic Transactions Development Agency (ETDA).",
+        "bullets": [
+            "Digital ID, a highly secure digital identity verification system that accurately identifies and confirms a person's identity, following the standard recommendations announced by the Electronic Transactions Development Agency in version 3.0.",
+            "Risk management guidelines for service businesses related to digital identity verification systems (Digital ID Risk Management Framework).",
+            "Guidelines for using digital identity verification systems to control and reduce Cybersecurity risks, ensuring compliance with various legal frameworks such as PDPA, GDPR, and OECD.",
+            "Supporting e-KYC (e-Know Your Customer) identity verification services through electronic channels, certified by ETDA.",
+            "Recommending and establishing guidelines for identity verification standards in using the e-KYC system to align with the context of use for businesses and organizations.",
+            "Digital Platform Services (DPS) operational system for digital platform service businesses according to the Notification Act on Digital Platform Services Business Operations, B.E. 2022.",
+            "Supervising the electronic payment service business (e-Payment) in accordance with the Electronic Transactions Act B.E. 2001.",
+            "Providing information system certification services for businesses following the regulations and supervision of the Electronic Transactions Development Agency (ETDA)."
+        ],
+        "img": "assets/image_icon_services2/icon10_Digital ID and Digital Platform Services.png"
+    }
+]
