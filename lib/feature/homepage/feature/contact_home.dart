@@ -88,7 +88,7 @@ class _ContactHomeState extends State<ContactHome> {
                             ),
                             const SizedBox(width: 15),
                             Text(
-                              '+66 (0)2 019 3541',
+                              '+66 (0)2 000 0323',
                               style: Theme.of(context).textTheme.titleSmall?.copyWith(
                                     color: Theme.of(context).colorScheme.secondary,
                                     fontSize: MediaQuery.of(context).size.width < 516
